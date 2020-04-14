@@ -1,0 +1,8 @@
+# Virtual Env
+.venv
+
+# Python
+.pyc
+
+# Packages
+__pycache__/
